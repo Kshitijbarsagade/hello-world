@@ -7,7 +7,11 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
+
+    <label for="Email"><b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email" name="Email" id="Email" required>
+    <br>
+ 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
